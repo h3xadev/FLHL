@@ -20,7 +20,7 @@ FLHL was created to expose unapproved, unreliable, or downright fraudulent hosti
 > - Critical vulnerabilities, that very often leads to data losses/leaks (Also often caused by AI)
 ### Own-invistigated summerhosts
 I personally tested most of the bad hostings on this list, and wrote a separate description for each hosting. So unfortunately, the **FLHL** website are very outdated and **was archived in favor of a separate independent platform "[TrustHost](https://discord.gg/3s59bWwQj9)"**. Although all this information will be on the open source TrustHost, I will not leave people without information now.
-I created an Archive of free hosting sites that have closed or they are unreliable / summerhosts. The archive can be visited here: https://github.com/Hexagonality/flhl/Archive.md
+I created an Archive of free hosting sites that have closed or they are unreliable / summerhosts. The archive can be visited here: https://github.com/h3xadev/flhl/Archive.md
 Keep in mind, the archive contains not only bad hostings, but also bad hostings +all the  hostings that closed for any important reasons. That's why I divided hostings and such categories:
 > - Good — Heroes — free hostings, that have closed down for a good reason, after many years of work.
 > - Neutral — Neutral free platforms that closed without very good reasons, but were not scams.
@@ -66,7 +66,7 @@ If you have an old laptop or pc that you aren't using, you can **self-host** it 
 But I won't say which of these hosting services is better, because I haven't used them myself. Remember that **you choose what to buy, not strangers on the Internet.**
 
 ### Copyright
-FLHL's Original author: [Hexagonality](https://github.com/Hexagonality); Thanks to [ShadowGaming](https://github.com/ShadowGaming100) and [Haris](https://github.com/haris-im) for help with investigation and contribution!
+FLHL's Original author: [HexaDev](https://github.com/h3xadev); Thanks to [ShadowGaming](https://github.com/ShadowGaming100) and [Haris](https://github.com/haris-im) for help with investigation and contribution!
 All information in this repository is under the MIT license.
 
-**[Visit Archive](https://github.com/Hexagonality/flhl/Archive.md) | [Main Legacy FLHL's Mirror](https://flhl.pages.dev/) | [TrustHost's Discord Server](https://discord.gg/3s59bWwQj9)**
+**[Visit Archive](https://github.com/h3xadev/flhl/Archive.md) | [Main Legacy FLHL's Mirror](https://flhl.pages.dev/) | [TrustHost's Discord Server](https://discord.gg/3s59bWwQj9)**
